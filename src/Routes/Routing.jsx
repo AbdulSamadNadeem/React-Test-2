@@ -1,5 +1,5 @@
 import Contact from "../Pages/Contact";
-import Home from "../Pages/home";
+import Home from "../Pages/Home";
 import Products from "../Pages/Products";
 
 export const Rounting = [
